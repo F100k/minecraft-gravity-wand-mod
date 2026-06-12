@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "equipment",
+	"key": {
+		"E": {
+			"item": "minecraft:ender_eye"
+		},
+		"B": {
+			"item": "minecraft:blaze_rod"
+		},
+		"D": {
+			"item": "minecraft:diamond"
+		}
+	},
+	"pattern": [
+		"  E",
+		" B ",
+		"D  "
+	],
+	"result": {
+		"id": "gravitywand:gravity_wand",
+		"count": 1
+	}
+}
